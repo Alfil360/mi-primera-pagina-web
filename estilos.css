@@ -34,7 +34,7 @@ header{
 
 
 nav{
-    background: greenyellow;
+    background: white;
     height: 50px;
     border: 1px solid black;
 }
@@ -56,7 +56,7 @@ nav ul li{
 #content{
     float:left;
     width: calc(80% - 80px);
-    background: green;
+    background: lightgreen;
     min-height: 500px;
     padding: 40px;
 }
@@ -72,7 +72,7 @@ nav ul li{
 aside{
     float:left;
     width: calc(20% - 20px);
-    background: orange;
+    background: rgb(119, 122, 122);
     min-height: 500px;
     padding-left: 10px;
     padding-right: 10px;
